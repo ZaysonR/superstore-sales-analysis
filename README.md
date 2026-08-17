@@ -48,10 +48,9 @@ This was a good reminder that real-world data is rarely clean, and that date/tex
 ## Repository Structure
 
 ├── README.md
-├── superstore.db # SQLite database
-├── queries.sql # All 5 SQL business queries, with comments
-├── superstore_analysis.xlsx # Excel workbook: charts + pivot tables
-└── screenshots/ # Chart images
+├── superstore.db              # SQLite database
+├── queries.sql                # All 5 SQL business queries, with comments
+├── superstore_analysis.xlsx   # Excel workbook: charts + pivot tables
 
 ## Charts & Pivot Tables
 
